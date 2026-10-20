@@ -1,5 +1,7 @@
 # 🎉 Zinzin Party
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/xtedBenoit/zinzin-party)
+
 Plateforme de **party-game multijoueur temps réel** façon *Jackbox / Kahoot* pensée **Production-First** :
 - **L'écran principal (`/host`)** s'affiche sur la TV, un PC ou un vidéoprojecteur avec un QR code dynamique et un code à 4 lettres.
 - **Les téléphones (`/`)** servent de manettes instantanées via le navigateur mobile (zéro installation, PWA installable, reconnexion automatique, Screen Wake Lock, vibrations, effets sonores Web Audio).
